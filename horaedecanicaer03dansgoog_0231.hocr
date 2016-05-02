@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horaedecanicaer03dansgoog_0231.png"; bbox 0 0 3882 5037; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1346 1813 1944 1918">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1346 1813 1944 1918">
+     <span class='ocr_line' id='line_1_1' title="bbox 1346 1813 1944 1918; baseline 0.002 -17"><span class='ocrx_word' id='word_1_1' title='bbox 1346 1813 1944 1918; x_wconf 59' lang='lat' dir='ltr'><strong>appennis</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 702 2146 2587 2252">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 702 2146 2587 2252">
+     <span class='ocr_line' id='line_1_2' title="bbox 702 2146 2587 2252; baseline 0.002 -16"><span class='ocrx_word' id='word_1_2' title='bbox 702 2148 1349 2250; x_wconf 59' lang='lat' dir='ltr'><strong>monumenta,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1398 2146 1815 2237; x_wconf 58' lang='lat' dir='ltr'><strong>ancient</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1865 2151 2058 2238; x_wconf 68' lang='lat' dir='ltr'><strong>anu</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2113 2152 2587 2252; x_wconf 67' lang='lat' dir='ltr'><strong>munem,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 811 2877 2481 2953">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 811 2877 2481 2953">
+     <span class='ocr_line' id='line_1_3' title="bbox 811 2877 2481 2953; baseline 0.001 -13"><span class='ocrx_word' id='word_1_6' title='bbox 811 2878 1161 2945; x_wconf 63' lang='lat' dir='ltr'><strong>Botummts</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1190 2878 1532 2947; x_wconf 65' lang='lat' dir='ltr'><strong>tllnsttatibae</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1561 2882 1621 2943; x_wconf 78' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1644 2880 1738 2953; x_wconf 71' lang='lat' dir='ltr'><strong>tin</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1768 2877 1957 2940; x_wconf 63' lang='lat' dir='ltr'><strong>mn</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1985 2880 2045 2941; x_wconf 78' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2068 2880 2236 2942; x_wconf 62' lang='lat' dir='ltr'><strong>Euan</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2264 2879 2481 2943; x_wconf 54' lang='lat' dir='ltr'><strong>natal.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 237 402 3153 4486">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 237 402 3153 4486">
+     <span class='ocr_line' id='line_1_4' title="bbox 237 402 3153 4486; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 237 402 3153 4486; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
